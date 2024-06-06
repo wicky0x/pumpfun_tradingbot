@@ -16,8 +16,8 @@ The **Pumpsbuy** bt has the following features,
    ![image](https://github.com/TrasherTravis/pump.fun_tradingbot/assets/69963432/7704ca1c-4f5e-4f9a-8473-788f449bac91)
 6. Portfolio - To track the performance of the token, user can use /portfolio command to check the current performance of the tokens bought (both dex and pump.fun) and take decisions accordingly.
    ![image](https://github.com/TrasherTravis/pump.fun_tradingbot/assets/69963432/6e6f5961-a828-4220-ae83-a08b2f4f5620)
-7. Buy typing the ID number that represents the token, user can view more detail info about the token and buy more or sell it immediately.
-   ![image](https://github.com/TrasherTravis/pump.fun_tradingbot/assets/69963432/de9c3096-28c7-403f-bd34-b791e37de327)
+7. By typing the ID number that represents the token, user can view more detail info about the token and buy more or sell it immediately.
+  ![image](https://github.com/TrasherTravis/pump.fun_tradingbot/assets/69963432/61d47d67-846e-46fc-9830-dcec8520f304)
 8. There are more customisable features for the users, where user can set a custom priority fee for dex transactions and custom Jito bundle tip for pump.fun transactions, slippage tolerence, set the quick SOL amounts for Buy and Sell keyboards..etc
 
    Required:
