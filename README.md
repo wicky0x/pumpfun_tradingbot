@@ -1,4 +1,4 @@
-# pump.fun_tradingbot
+# pumpfun_tradingbot
 **Pump.fun and Raydium trading bot with advance price tracking features
 **
 Pumpsbuy is a Telegram based trading bot to trade on pump.fun tokens on bonding curve and sell them on both pump.fun and dex (multi-dex using Jupiter API).
